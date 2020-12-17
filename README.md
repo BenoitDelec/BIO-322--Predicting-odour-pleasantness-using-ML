@@ -52,3 +52,4 @@ In each file, the data is loaded and you can run cells after cell to have the re
 
 You can run the Jupyter Notebook cells right after the "Submission" titles to get our submission files (we re-load the data and clean it). You do not need to run the cross validation steps before.
 For example, to get the submission file for Neural Network, you can simply run the cells after "Submission" in the "Neuronal Network.ipynb" file. 
+The resulting file will be in the "Submissions" folder.
