@@ -37,7 +37,7 @@ You can find the report associated with the project named "Report.pdf".
 The Exploration section of the project is in the "Exploration.ipynb" file.
 You can run cells after cells to get the same depicted results. 
 
-The Linear Method section results are in the "Linear_Methods.ipynb" file. It contains the regularization methods (Lasso and Ridge), and the Forward Selection method. 
+The Linear Method section results are in the "Linear_Methods.ipynb" file. It contains the regularization methods (Lasso and Ridge), and the Forward Selection method (which finds the optimal number of predictors). However, the mean of validation errors for Forward Selection method is in the "Regression.ipynb" file under the "Validation for forward selection" section.
 
 The Non Linear Method section is divided in files corresponding to each method : 
 - The Neural Network model is in the "Neuronal Network.ipynb" file 

@@ -37,7 +37,7 @@ You can find the report associated with the project named "Report.pdf".
 The Exploration section of the project is in the "Exploration.ipynb" file.
 You can run cells after cells to get the same depicted results. 
 
-The Linear Method section results are in the "Linear_Methods.ipynb" file. It contains the regularization methods (Lasso and Ridge), and the Forward Selection method. 
+The Linear Method section results are in the "Linear_Methods.ipynb" file. It contains the regularization methods (Lasso and Ridge), and the Forward Selection method (which finds the optimal number of predictors). However, the mean of validation errors for Forward Selection method is in the "Regression.ipynb" file under the "Validation for forward selection" section.
 
 The Non Linear Method section is divided in files corresponding to each method : 
 - The Neural Network model is in the "Neuronal Network.ipynb" file 
@@ -52,3 +52,4 @@ In each file, the data is loaded and you can run cells after cell to have the re
 
 You can run the Jupyter Notebook cells right after the "Submission" titles to get our submission files (we re-load the data and clean it). You do not need to run the cross validation steps before.
 For example, to get the submission file for Neural Network, you can simply run the cells after "Submission" in the "Neuronal Network.ipynb" file. 
+The resulting file will be in the "Submissions" folder.
